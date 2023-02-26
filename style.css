@@ -1,0 +1,23 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+html, body{
+    padding: 0;
+    margin: 0;
+    background-color: #00ffff;
+    line-height: 1.5;
+    font-size: 150%;
+    font-weight: 500;
+    color: #9c9494;
+}
+
+h1, h2, footer{
+    text-align: center;
+}
+
+#main{
+    color: #960d0d;
+    padding: 2rem;
+    margin: 2rem;
+    text-align: center;
+}

@@ -32,6 +32,7 @@ function speedTest() {
             clearInterval(poemTimer)
         } else {
             countDownEl.textContent = inputPoemIntoArray[i];
+          
             i++;
         }
     },howFast)
